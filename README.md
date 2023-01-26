@@ -1,2 +1,2 @@
-# GCC218-MatrizDeAdjacencias
+# MatrizDeAdjacencias
 Codigo exemplo de uma Matriz de adjacencias
